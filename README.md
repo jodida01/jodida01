@@ -15,15 +15,15 @@ I'm passionate about safeguarding financial ecosystems from abuse, using a sharp
 
 > ⚠️ All sample data is anonymized and used for educational purposes only.
 
-### 🔍 `aml-risk-scoring-model`
+### 🔍 `AML-Risk-scoring-model`
 An intelligent ML system to flag suspicious behavior based on transaction attributes and customer profiles.  
 **Tech Used**: Python, scikit-learn, pandas, CBK/FATF guidelines
 
-### 💡 `kyc-workflow-automation`
+### 💡 `KYC-Workflow-Automation`
 Simplifies customer onboarding with pre-validation logic and error-reducing steps for high-volume processing.  
 **Tech Used**: Python, RegEx, form simulation
 
-### 📊 `sanctions-dashboard`
+### 📊 `Sanctions-dashboard`
 Interactive Power BI dashboard that tracks flagged PEP/sanctioned entities using open data and private lists.  
 **Tech Used**: Power BI, DAX, REST APIs
 
