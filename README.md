@@ -74,5 +74,12 @@ Provided operational support and mentoring in a frontline banking environment wh
 
 🌍 _“In compliance, details matter. In data, patterns speak.”_
 
+## 🌐 Social Accounts
+
+- 📇 [LinkedIn](https://linkedin.com/in/jodida) – Career updates, certifications, and compliance insights  
+- 🧠 [GitHub](https://github.com/jodida01) – AML dashboards, Python projects, and investigative tools  
+- ✍️ [Medium](https://medium.com/@jodida01) – Writing on compliance automation & data analytics (coming soon)  
+- 🌍 [Portfolio](https://jodida01.github.io/) – Personal website with CV and selected projects
+
 
 
